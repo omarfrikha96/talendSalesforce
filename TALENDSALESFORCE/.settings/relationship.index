@@ -1,0 +1,27 @@
+[ {
+  "baseItem" : {
+    "id" : "_nzMk8DkvEe-7PsK7Xg2keA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "TALENDSALESFORCE:_sJqvkDknEe-7PsK7Xg2keA",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_sJqvkDknEe-7PsK7Xg2keA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+} ]
